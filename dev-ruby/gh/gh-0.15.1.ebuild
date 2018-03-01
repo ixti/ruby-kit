@@ -22,7 +22,7 @@ ruby_add_bdepend "
 "
 
 ruby_add_rdepend "
-	>=dev-ruby/addressable-2.4.0 =dev-ruby/addressable-2.4*
+	>=dev-ruby/addressable-2.4.0
 	dev-ruby/backports
 	>dev-ruby/faraday-0.8
 	>dev-ruby/multi_json-1.0
